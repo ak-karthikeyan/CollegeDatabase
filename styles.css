@@ -1,0 +1,18 @@
+#container {
+  background-color: antiquewhite;
+  height: 400px;
+  width: 40%;
+  padding-top: 20px;
+  padding-left: 20px;
+}
+button {
+  background-color: lightgray;
+  border-radius: 25px;
+  width: 75px;
+  height: 25px;
+  border: none;
+  cursor: pointer;
+}
+h4 {
+  margin-top: 35px;
+}
